@@ -1,0 +1,7 @@
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo1 in C:\xampp\htdocs\wybbo\email\envia.php on line 26
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo2 in C:\xampp\htdocs\wybbo\email\envia.php on line 27
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo3 in C:\xampp\htdocs\wybbo\email\envia.php on line 28
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo4 in C:\xampp\htdocs\wybbo\email\envia.php on line 29
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo2 in C:\xampp\htdocs\wybbo\email\envia.php on line 44
+[30-Oct-2018 21:44:52 America/Sao_Paulo] PHP Notice:  Undefined index: campo1 in C:\xampp\htdocs\wybbo\email\envia.php on line 44
+[30-Oct-2018 22:01:42 America/Sao_Paulo] PHP Warning:  fputs() expects parameter 1 to be resource, integer given in C:\xampp\htdocs\wybbo\email\class.smtp.php on line 212
